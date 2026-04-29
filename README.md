@@ -1,7 +1,7 @@
 # Paper
 ICML2025 [Paper](https://arxiv.org/abs/2505.17649)
 
-
+![Demo PDF Preview](assets/fig_com.png)
 
 ## Train
 
